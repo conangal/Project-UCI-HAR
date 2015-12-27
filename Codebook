@@ -1,6 +1,7 @@
-DATA DICTIONARY / Codebook - UCI HAR Tidy dataset
+CODEBOOK / DATA DICTIONARY - UCI HAR Tidy dataset
 
-activity              18
+
+activity                18
     The activity the person performed wearing a smartphone (Samsung Galaxy S II) on the waist
     WALKING
     WALKING_UPSTAIRS
@@ -9,12 +10,15 @@ activity              18
     STANDING
     LAYING
 
-subject
+
+subject                  2
     The identifier of the subject who carried out the experiment
+    1..30   Identifier for each of 30 subjects
     
     
-    
-tBodyAcc-mean()-X
+tBodyAcc-mean()-X       18
+
+
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
 tBodyAcc-std()-X
