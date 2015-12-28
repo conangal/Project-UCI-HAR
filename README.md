@@ -9,7 +9,7 @@ The following training datasets are read into R:
 * Activity lables
 * Feature / measure labels
 
-A new data frame is created based on the Main training dataset. Column names are added using the feature labels. The activity labes and Subject labels are added as new columns to the data frame.
+A new data frame is created based on the Main training dataset. Column names are added using the feature labels. The activity labels and Subject labels are added as new columns to the data frame.
 
 The above process is repeated for the test data
 
