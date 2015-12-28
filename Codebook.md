@@ -53,7 +53,7 @@ fBodyAccJerkMag
 fBodyGyroMag  
 fBodyGyroJerkMag  
 
-The set of variables that were estimated from these signals are: 
+The set of variables that were estimated from these signals are:  
 mean(): Mean value  
 std(): Standard deviation  
 angle(): Angle between to vectors.  
